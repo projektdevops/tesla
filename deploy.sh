@@ -4,7 +4,7 @@ deploy in the dev environment
 deployment5 master
 deployment4
 deploy to env
-echo good job.
+echo "good job"
 tested and accepted
-
-
+deploy to staging
+deployment to the staging environment
